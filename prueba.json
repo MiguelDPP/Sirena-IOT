@@ -1,0 +1,46 @@
+{
+    "me": 0,
+    "ma": {
+        "t": 2,
+        "a": "lunes,martes,16/12/2002",
+        "s": 3,
+        "0": {
+            "h": 11,
+            "m": 5,
+            "d": "Inicio de Jornada"
+        },
+        "1": {
+            "h": 11,
+            "m": 10,
+            "d": "Para la casa"
+        }
+    }
+} { "me": 0, 
+
+"ma": { "t": 2, "a": "Jueves,martes,16/12/2002", "s": 3, "0": { "h": 11, "m": 5, "d": "Inicio de Jornada" }, "1": { "h": 11, "m": 10, "d": "Para la casa" } } }
+
+{ "me": 0, "ma": { "t": 2, "a": "lunes,martes,16/12/2002", "s": 3, "0": { "h": 11, "m": 5, "d": "Inicio de Jornada" }, "1": { "h": 11, "m": 10, "d": "Para la casa" } } }
+
+{
+    "t": 2,
+    "0": {
+        "h": 8,
+        "m": 7,
+        "d": "Inicio de Jornada"
+    }
+}
+{
+    "1":{
+        "h": 18,
+        "m": 9,
+        "d": "fIN de Jornada"
+    }
+}
+
+{
+    "2":{
+        "h": 12,
+        "m": 6,
+        "d": "Inicio de Jornada"
+    }
+}
